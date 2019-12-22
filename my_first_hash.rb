@@ -1,9 +1,10 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
 end
 
+my_hash = {}
+
+# my_hash = { "singer" => "Nat King Cole", "song" => "Have yourself a merry little Christmas", "name" => "Santa Claus" }
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
